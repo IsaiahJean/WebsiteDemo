@@ -8,6 +8,7 @@ Stable tag: 4.5.2
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
+
 WooCommerce is the world’s most popular open-source eCommerce solution.
 
 == Description ==
